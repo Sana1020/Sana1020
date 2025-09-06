@@ -1,14 +1,18 @@
-<!-- Animated Name -->
+<!-- Greeting -->
+<h1 align="center">👋 Hi, Sana Elbakry</h1>
+
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=✨+Sana+Elbakry+✨;AI+%26+ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+am+Computer+Science+Student;I+am+AI+%26+ML+Engineer" alt="Typing Animation" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
+- 🎓 Computer Science Student  
+- 🤖 AI & ML Engineer in progress  
 - 🔭 Working on **AI & ML projects**  
 - 🌱 Learning **Deep Learning & Generative AI**  
-- 🤖 Passionate about **Neural Networks, Machine Learning, and Data Science**  
 - 💬 Ask me about **Python, ML, or AI**  
 
 ---
@@ -45,8 +49,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sana1020&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sana1020&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserNameHere&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://streak-stats.demolab.com?user=YourUserNameHere&theme=tokyonight" alt="streak"/>
 </p>
 
 ---
