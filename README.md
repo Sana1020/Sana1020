@@ -9,8 +9,8 @@
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Computer Science Student  
-- 🤖 AI & ML Engineer in progress  
+- 🏫 I am a Student at Faculty of Computers & AI at Sadat City University.  
+- 🤖 I am AI & ML Engineer in progress  
 - 🔭 Working on **AI & ML projects**  
 - 🌱 Learning **Deep Learning & Generative AI**  
 - 💬 Ask me about **Python, ML, or AI**  
