@@ -1,53 +1,59 @@
-<div align="center" width="50">
+<!-- Banner or GIF -->
+<p align="center">
+  <img src="https://i.gifer.com/7SvR.gif" width="600" alt="AI Animation"/>
+</p>
 
-<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="AI Coder" width="60%"/> <br>
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Machine Learning"  width="40%"/><br> 
+<!-- Name Highlight -->
+<h1 align="center">✨ Sanaa Elbakry ✨</h1>
+<h3 align="center">AI & ML Enthusiast | Cybersecurity Passionate</h3>
 
-<details>
-<p><strong> <summary>  Busy coding & Training Models :   </summary> </strong></p>
+---
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
+### 👩‍💻 About Me
+- 🔭 I’m currently working on **AI & ML projects**  
+- 🌱 I’m learning **Deep Learning & Generative AI**  
+- 🤖 Interested in **Neural Networks, Cybersecurity, and Data Science**  
+- 💬 Ask me about **Python, Machine Learning, or Security**  
 
-</details>
+---
 
-![Totals Hits](https://komarev.com/ghpvc/?username=sana-ai&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsana-ai&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Sana-grey?style=flat&logo=telegram)](https://t.me/username) <br>
-</div>
+### 🛠️ Tools & Technologies
 
-<hr></hr>
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![tools_I_use](https://img.shields.io/badge/-🧠%20AI%20&%20ML%20Tools-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+**Databases & Platforms**  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-```dart
-// tools_I_use organized
+**Editors**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-class About extends Me { 
-  const myTools = {  
-    "Languages" : { "Python", "C++", "R" },
-    "Libraries" : { "TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "Numpy", "Matplotlib" },
-    "Database" : { "SQL", "MongoDB" },
-    "Editors" : { "VSCode", "Jupyter Notebook", "Google Colab" },
-    "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma" }
-  };
-}
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanaElbakry&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanaElbakry&theme=tokyonight" alt="streak"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
