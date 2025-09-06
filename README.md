@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=✨+Sana+Elbakry+✨;AI+%26+ML+Enthusiast;Deep+Learning+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=✨+Sana+Elbakry+✨;AI+%26+ML+Engineer" alt="Typing SVG" />
 </p>
 
 ---
@@ -56,5 +56,6 @@
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
 
 
