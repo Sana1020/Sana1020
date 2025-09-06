@@ -3,7 +3,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=I+am+Computer+Science+Student;I+am+AI+%26+ML+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=#800080&center=true&vCenter=true&width=600&lines=I+am+Computer+Science+Student;I+am+AI+%26+ML+Engineer" alt="Typing Animation" />
 </p>
 
 ---
