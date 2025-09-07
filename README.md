@@ -61,7 +61,7 @@
 
 ---
 
-### 🚀My Projects
+### 🚀My Featured Projects
 - [ATM System in C++ (OOP)](https://github.com/Sana1020/ATM-project/blob/main/ATM%20project.cpp)
 
 ---
