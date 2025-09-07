@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h1 align="center"> Hi, Sana Elbakry 👋 </h1>
+<h1 align="center">👋 Hi, Sana Elbakry</h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📈 GitHub Stats
@@ -59,6 +58,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Sana1020&show_icons=true&theme=tokyonight" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=Sana1020&theme=tokyonight" alt="streak"/>
 </p>
+
+---
+
+### 🚀My Projects
+- [ATM System in C++ (OOP)](https://github.com/Sana1020/ATM-project/blob/main/ATM%20project.cpp)
 
 ---
 
@@ -74,3 +78,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
