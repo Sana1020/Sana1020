@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<h1 align="center">👋 Hi, Sana Elbakry</h1>
+<h1 align="center"> Hi, Sana Elbakry 👋 </h1>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -48,7 +48,9 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
+
 
 ---
 
