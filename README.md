@@ -63,7 +63,7 @@
 
 ### 🚀My Featured Projects
 - [ATM System in C++ (OOP)](https://github.com/Sana1020/ATM-project/blob/main/ATM%20project.cpp)
-- [ScoreSeer (ML)](https://github.com/Sana1020/ScoreSeer.git)
+
 
 ---
 
