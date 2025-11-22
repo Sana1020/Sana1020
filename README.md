@@ -63,6 +63,10 @@
 
 ### 🚀My Featured Projects
 - [ATM System in C++ (OOP)](https://github.com/Sana1020/ATM-project/blob/main/ATM%20project.cpp)
+- [NLP_ summarization](https://github.com/Sana1020/NLP_Project1.git)
+- لللللل
+- ج
+- ج
 
 
 ---
