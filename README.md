@@ -75,7 +75,7 @@
 - [Image_Filtering_App](https://github.com/Sana1020/image_filtering_app.git)
 - [Streamlit-Object-Tracking-App](https://github.com/Sana1020/streamlit-object-tracking-app.git)
 - [Covid_Detection](https://github.com/Sana1020/Covid_Detection)
-- [CustomersAnalysis_AI(https://github.com/Sana1020/CustomersAnalysis_AI)
+- [CustomersAnalysis_AI](https://github.com/Sana1020/CustomersAnalysis_AI)
 
 ---
 
