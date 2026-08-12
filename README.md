@@ -114,6 +114,7 @@ An AI-powered Text-to-SQL application that converts natural language questions i
 An AI research assistant designed to automate the research workflow using multiple specialized agents.
 
 **Techniques:**
+
 - 🤖 Multi-Agent Architecture
 - 🔗 LangGraph
 - 🧠 LLM-based Planning
@@ -121,8 +122,8 @@ An AI research assistant designed to automate the research workflow using multip
 - 📝 Automatic Summarization
 - 📄 Report Generation
 - 🔍 Retrieval-Augmented Generation
-  
- 🔗 [View Project](https://github.com/Sana1020/ResearchFlow AI)
+
+🔗 [View Project](https://github.com/Sana1020/ResearchFlow-AI)
 
 ---
 
@@ -131,6 +132,7 @@ An AI research assistant designed to automate the research workflow using multip
 An AI-powered assistant for understanding and exploring software repositories.
 
 **Tech Stack:**
+
 - Python
 - Streamlit
 - LangChain
@@ -139,7 +141,7 @@ An AI-powered assistant for understanding and exploring software repositories.
 - Hugging Face Embeddings
 - GitPython
 
-  🔗 [View Project](https://github.com/Sana1020/RepoMind AI)
+🔗 [View Project](https://github.com/Sana1020/RepoMind-AI)
 
 ---
 
