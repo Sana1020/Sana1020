@@ -164,7 +164,7 @@ Natural Language Processing project focused on automatic text summarization.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sana1020&theme=tokyonight" height="170"/>
