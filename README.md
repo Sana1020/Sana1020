@@ -121,6 +121,8 @@ An AI research assistant designed to automate the research workflow using multip
 - 📝 Automatic Summarization
 - 📄 Report Generation
 - 🔍 Retrieval-Augmented Generation
+  
+ 🔗 [View Project](https://github.com/Sana1020/ResearchFlow AI)
 
 ---
 
@@ -136,6 +138,8 @@ An AI-powered assistant for understanding and exploring software repositories.
 - ChromaDB
 - Hugging Face Embeddings
 - GitPython
+
+  🔗 [View Project](https://github.com/Sana1020/RepoMind AI)
 
 ---
 
