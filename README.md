@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2629e66c-99ec-4ed6-8536-c321ae40324c" /><h1 align="center">👋 Hi, I'm Sana Elbakry</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=800080&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Aspiring+AI+%26+ML+Engineer;Generative+AI+%26+LLM+Enthusiast" alt="Typing Animation" />
