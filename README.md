@@ -9,19 +9,19 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-- 🎓 Computer & AI Student at **Sadat City University**
-- 🤖 Aspiring **AI & ML Engineer**
-- 🧠 Interested in **Generative AI, LLMs, Deep Learning & NLP**
-- 🔬 Building practical **AI-powered applications**
-- 🚀 Exploring **LLM Fine-Tuning, RAG & Multi-Agent Systems**
-- 💻 Experienced with **Python, Machine Learning & Deep Learning**
-- 🌱 Continuously learning and building AI projects
+-  Computer & AI Student at **Sadat City University**
+-  Aspiring **AI & ML Engineer**
+-  Interested in **Generative AI, LLMs, Deep Learning & NLP**
+-  Building practical **AI-powered applications**
+-  Exploring **LLM Fine-Tuning, RAG & Multi-Agent Systems**
+-  Experienced with **Python, Machine Learning & Deep Learning**
+-  Continuously learning and building AI projects
 
 ---
 
-## 🧠 AI & Machine Learning
+##  AI & Machine Learning
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-### 🤖 Generative AI & LLM Engineering
+###  Generative AI & LLM Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🛠️ Languages & Frameworks
+##  Languages & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -91,7 +91,7 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 SQLMind AI — Text-to-SQL with Fine-Tuned LLM
+###  SQLMind AI — Text-to-SQL with Fine-Tuned LLM
 
 An AI-powered Text-to-SQL application that converts natural language questions into executable SQL queries.
 
@@ -109,7 +109,7 @@ An AI-powered Text-to-SQL application that converts natural language questions i
 
 ---
 
-### 🔬 ResearchFlow AI — Multi-Agent Research Assistant
+###  ResearchFlow AI — Multi-Agent Research Assistant
 
 An AI research assistant designed to automate the research workflow using multiple specialized agents.
 
@@ -127,7 +127,7 @@ An AI research assistant designed to automate the research workflow using multip
 
 ---
 
-### 📦 RepoMind AI — AI Repository Assistant
+###  RepoMind AI — AI Repository Assistant
 
 An AI-powered assistant for understanding and exploring software repositories.
 
@@ -157,7 +157,7 @@ Real-time object tracking application using computer vision and object detection
 
 ---
 
-### 📝 NLP Summarization
+###  NLP Summarization
 
 Natural Language Processing project focused on automatic text summarization.
 
