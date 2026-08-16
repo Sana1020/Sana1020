@@ -11,7 +11,7 @@
 
 ##  About Me
 
--  Computer & AI Student at **Sadat City University**
+-  Computer & AI Student 
 -  Aspiring **AI & ML Engineer**
 -  Interested in **Generative AI, LLMs, Deep Learning & NLP**
 -  Building practical **AI-powered applications**
