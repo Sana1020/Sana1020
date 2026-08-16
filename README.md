@@ -96,14 +96,14 @@
 An AI-powered Text-to-SQL application that converts natural language questions into executable SQL queries.
 
 **Highlights:**
-- 🤖 Fine-tuned **Qwen2.5-3B-Instruct**
-- ⚡ **QLoRA / LoRA** fine-tuning
-- 🧠 Natural Language → SQL
-- 🗄️ SQLite database integration
-- 🛡️ SQL safety validation
-- 📊 Query execution & result visualization
-- 📥 Export results to CSV / Excel / SQL
-- 🖥️ Interactive Streamlit interface
+-  Fine-tuned **Qwen2.5-3B-Instruct**
+-  **QLoRA / LoRA** fine-tuning
+-  Natural Language → SQL
+-  SQLite database integration
+-  SQL safety validation
+-  Query execution & result visualization
+-  Export results to CSV / Excel / SQL
+-  Interactive Streamlit interface
 
 🔗 [View Project](https://github.com/Sana1020/SQLMind-AI)
 
@@ -115,13 +115,13 @@ An AI research assistant designed to automate the research workflow using multip
 
 **Techniques:**
 
-- 🤖 Multi-Agent Architecture
-- 🔗 LangGraph
-- 🧠 LLM-based Planning
-- 🔎 Web Research
-- 📝 Automatic Summarization
-- 📄 Report Generation
-- 🔍 Retrieval-Augmented Generation
+-  Multi-Agent Architecture
+-  LangGraph
+-  LLM-based Planning
+-  Web Research
+-  Automatic Summarization
+-  Report Generation
+-  Retrieval-Augmented Generation
 
 🔗 [View Project](https://github.com/Sana1020/ResearchFlow-AI)
 
@@ -179,13 +179,13 @@ Natural Language Processing project focused on automatic text summarization.
 
 ## 📈 What I'm Currently Learning
 
-- 🧠 Advanced LLM Engineering
-- 🔧 LLM Fine-Tuning
-- 🤖 Agentic AI
-- 🔗 RAG & Vector Databases
-- 🧩 LangChain & LangGraph
-- 🧠 Deep Learning & Transformers
-- 🚀 Building production-ready AI applications
+-  Advanced LLM Engineering
+-  LLM Fine-Tuning
+-  Agentic AI
+-  RAG & Vector Databases
+-  LangChain & LangGraph
+-  Deep Learning & Transformers
+-  Building production-ready AI applications
 
 ---
 
