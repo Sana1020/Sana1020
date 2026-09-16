@@ -4,20 +4,14 @@
 </p>
 
 <p align="center">
-  <b>AI & ML Student | Generative AI | LLMs | Deep Learning</b>
+  <b>AI & Machine Learning Engineer | Generative AI | LLMs & RAG | NLP | Deep Learning</b>
 </p>
 
 ---
 
 ##  About Me
 
--  Computer & AI Student 
--  Aspiring **AI & ML Engineer**
--  Interested in **Generative AI, LLMs, Deep Learning & NLP**
--  Building practical **AI-powered applications**
--  Exploring **LLM Fine-Tuning, RAG & Multi-Agent Systems**
--  Experienced with **Python, Machine Learning & Deep Learning**
--  Continuously learning and building AI projects
+AI & Machine Learning Engineer with hands-on experience in Machine Learning, Deep Learning, Computer  Vision, NLP, and Generative AI. Skilled in building LLM-powered applications using RAG, LangChain,  LangGraph, and QLoRA, with experience developing production-oriented AI solutions using Python and  FastAPI.
 
 ---
 
